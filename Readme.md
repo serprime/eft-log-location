@@ -6,7 +6,7 @@ With the server list set to automatic, I was interested in seeing to what server
 
 This script reads the application log of Escape from Tarkov. Every time the game connects to a raid, it prints the IP and location of the server that it connects to.
 
-## Exmaple Output
+## Example Output
 
 ```
 $ ~/code/eft-locations/eft-locations.sh
